@@ -14,7 +14,7 @@
 <img align="right" width="340" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" />
 
 🎓 Software Engineering Student at  
-**The University of Danang – University of Science and Technology (DUT)**
+CMC University
 
 🌃 Currently living and working in Hanoi
 
