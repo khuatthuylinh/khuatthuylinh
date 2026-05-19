@@ -75,15 +75,6 @@ CMC University
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=quyenha1225&show_icons=true&theme=tokyonight&border_radius=10" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyenha1225&layout=compact&theme=tokyonight&border_radius=10" />
-
-</div>
-
-<br>
 
 <div align="center">
 
